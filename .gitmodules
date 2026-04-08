@@ -3,7 +3,8 @@
 	url = https://chromium.googlesource.com/chromium/mini_chromium
 [submodule "third_party/zlib/zlib"]
 	path = third_party/zlib/zlib
-	url = https://chromium.googlesource.com/chromium/src/third_party/zlib
+	url = https://github.com/vn1507/zlib.git
+	branch = main
 [submodule "third_party/linux-syscall-support"]
 	path = third_party/linux-syscall-support
 	url = https://chromium.googlesource.com/linux-syscall-support.git
